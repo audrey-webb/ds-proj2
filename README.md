@@ -20,4 +20,6 @@ Using the NYC Taxi Rides dataset to predict ride duration given two external dat
 - Modeling with sklearn data pipelines
 
 
+**Note:** In order to use our manipulated datasets across different parts of the project, you will need to save your tables into .hdf files and loading them when needed. 
+
 We give license for our code to be shared. 
